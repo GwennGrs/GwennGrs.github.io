@@ -2,11 +2,11 @@
 layout: default
 modal-id: 6
 date: 2014-07-04
-img: mediaplayer.jpg
+img: cat.png
 alt: image-alt
-project-date: March 2024
+project-date: December 2025
 client: Université de la Rochelle
 category: Software Development
-github: "https://github.com/GwennGrs/Projet-Conception-et-Developpement-du-Virus"
-description: Development of a Trojan horse as part of a university project. I used GTK and C to build a functional media player that secretly duplicates .jpg, .png, and .webp files in the background. Created for the Network and Security course, this project highlights vulnerabilities associated with unverified open-source software and the risks of user negligence.
+github: "https://github.com/GwennGrs/svg-wallpaper-gen"
+description: Development of a wallpaper generator that transforms low-quality images using a hexagonal tiling method. Developed as part of the Computer Science Refresher course, this project combines mathematics, project management best practices, and clean Python development.
 ---
