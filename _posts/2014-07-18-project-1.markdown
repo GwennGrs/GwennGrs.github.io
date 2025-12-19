@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2025-04-12
-img: compilator.png
+img: comilator.png
 alt: image-alt
 project-date: April 2025
 client: Université de La Rochelle
