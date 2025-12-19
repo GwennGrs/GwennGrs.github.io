@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2025-03
+img: mediaplayer.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: March 2024
+client: Université de la Rochelle
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Création d'un virus dans le cadre d'un projet universitaire. Utilisation de Gtk pour créer un lecteur de média, créant des copies de fichiers .jpg, .png, .webp. Code réalisé en C pour le cours de Réseau et Sécurité. Ce projet met en lumière les failles de sécurité lié à l'utilisation de logiciel "open-source" et aux risque de la négligence des utilisateurs.
 ---
