@@ -1,6 +1,6 @@
 ## My portfolio
 
-Voici mon portfolio listant les projets que j'ai pu réalisé au cours de mes années de licence et master. 
+Here is my portfolio listing the projects I have completed during my bachelor's and master's degrees. 
 
 ### What can you find inside ? 
 Inside this project you can find :
