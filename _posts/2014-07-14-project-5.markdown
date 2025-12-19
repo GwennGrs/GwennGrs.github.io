@@ -2,10 +2,10 @@
 layout: default
 modal-id: 5
 date: 2014-07-04
-img: safe.png
+img: htr.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June 2025
+client: Mementa
+category: Research Project / Manuscrit detection
+description: As part of my final year in a Bachelor of Computer Science at La Rochelle University, I completed a six-week professional internship at Mementa, a company focused on preserving memory-related heritage. My primary mission involved technical research and expertise for the development of "Ma Mémothèque," a web application designed to digitize and value family history through the recognition of handwritten archives. I specialized in Handwritten Text Recognition (HTR), moving beyond standard OCR to address the complexities of historical manuscripts such as old letters, wills, and postcards. To achieve this, I implemented and tested various solutions including Tesseract and Kraken, ultimately focusing on fine-tuning deep learning models to improve transcription accuracy for specific French handwriting styles. During the project I managed the entire data pipeline, from preprocessing the images using OpenCv to performing document segmentation.
 ---

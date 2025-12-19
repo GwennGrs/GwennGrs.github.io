@@ -2,10 +2,11 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: bdd.png
 alt: image-alt
-project-date: April 2014
+project-date: November 2025
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Database
+github : "https://github.com/Danila-Pechenev/databases_project"
+description: As part of a database course, we simulated a realistic and non-academic client request. The project consisted of retrieving different datasets (Oscars and movies), cleaning them, modeling a coherent and practical schema, and then implementing the database. The choices made during modeling and creation aimed to ensure data persistence, security, and consistency between the datasets and the information we wanted to extract. Once the database was created, our model being flexible, it allowed the integration of other datasets after a preprocessing phase.
 ---

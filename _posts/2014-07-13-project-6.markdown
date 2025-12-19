@@ -7,5 +7,6 @@ alt: image-alt
 project-date: March 2024
 client: Université de la Rochelle
 category: Software Development
+github: "https://github.com/GwennGrs/Projet-Conception-et-Developpement-du-Virus"
 description: Development of a Trojan horse as part of a university project. I used GTK and C to build a functional media player that secretly duplicates .jpg, .png, and .webp files in the background. Created for the Network and Security course, this project highlights vulnerabilities associated with unverified open-source software and the risks of user negligence.
 ---

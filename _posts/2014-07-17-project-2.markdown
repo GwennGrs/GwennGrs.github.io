@@ -7,5 +7,6 @@ alt: image-alt
 project-date: November 2025
 client: Université de Lille / Inria 
 category: Machine Learning / Data Science
+github: "https://github.com/GwennGrs/Projet_M1_Garrigues-Journaud_ULIlle_2025-2026"
 description: Quantum machine time analysis work. Information extraction via physical quantum machine providers (IBM, IQM, Microsoft), preparation, and data persistence. This data extraction/dataset creation then enables the use of machine learning models for prediction and performance analysis of these machines based on the extracted data.
 ---

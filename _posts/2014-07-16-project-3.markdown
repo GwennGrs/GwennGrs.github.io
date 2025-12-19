@@ -2,10 +2,11 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: mlp.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: 
+project-date: October 2024
+client: University of Helsinki
+category: Machine Learning Engineering
+github: "https://github.com/GwennGrs/DatastructuresandAlgorithmsLab"
+description: As part of the Data Structures and Algorithms course at the University of Helsinki, I had the opportunity to build a multilayer perceptron model from scratch for prediction on the famous “Titanic” dataset. This project allowed me to work on the mathematical formulas behind this type of algorithm (gradient descent, fastforward, sigmoid).
 ---
