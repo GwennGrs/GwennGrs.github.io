@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2025-04-12
+img: compilator.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2025
+client: Université de La Rochelle
+category: Compilator Development
+github: "https://github.com/GwennGrs/Compilation-FLEX-BISON"
+description: This project consists of the design and incremental implementation of a compiler for a custom language called “Facile.” Written in C, the project covers the entire compilation chain, from lexical analysis to the generation of executable code in CIL (Common Intermediate Language), including the construction of an abstract syntax tree (AST).
 ---

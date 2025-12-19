@@ -6,6 +6,6 @@ img: mediaplayer.jpg
 alt: image-alt
 project-date: March 2024
 client: Université de la Rochelle
-category: Web Development
-description: Création d'un virus dans le cadre d'un projet universitaire. Utilisation de Gtk pour créer un lecteur de média, créant des copies de fichiers .jpg, .png, .webp. Code réalisé en C pour le cours de Réseau et Sécurité. Ce projet met en lumière les failles de sécurité lié à l'utilisation de logiciel "open-source" et aux risque de la négligence des utilisateurs.
+category: Software Development
+description: Development of a Trojan horse as part of a university project. I used GTK and C to build a functional media player that secretly duplicates .jpg, .png, and .webp files in the background. Created for the Network and Security course, this project highlights vulnerabilities associated with unverified open-source software and the risks of user negligence.
 ---
