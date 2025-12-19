@@ -1,8 +1,8 @@
 # Site settings
 title: Mon portfolio
 email: gwenn.garrigues.etu@univ-lille.fr
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "This website is my portfolio."
+url: https://github.com/GwennGrs
+description: "This is my portfolio."
 keywords: "Learning and Philosophia"
 skills: "Student - Computer Science - Data Science"
 meta_author: Garrigues Gwenn
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 17220 La Rochelle
+  - line: 59000 Lille
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This portfolio showcases the various projects I completed during my academic journey, from my BSc in Computer Science through to my Master'
 
 # Build settings
 markdown: kramdown
